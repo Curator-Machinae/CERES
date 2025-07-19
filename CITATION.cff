@@ -1,0 +1,15 @@
+# CITATION.cff
+
+cff-version: 1.2.0
+message: "If you use this work, please cite as below."
+authors:
+  - family-names: Formentini 
+    given-names: Federico
+    orcid: https://orcid.org/0009-0003-9401-797X
+  - family-names: Burelli 
+    given-names: Carlo
+    orcid: https://orcid.org/0000-0001-7012-2669
+title: "Cognitive Exoskeleton for Reasoning, Execution, and Strategy (CERES) Architecture Overview (draft)"
+version: "v1.0"
+date-released: 2025-07-17
+# doi: 10.5281/zenodo.XXXXXXX   
